@@ -1,0 +1,2 @@
+# exercicos
+exercicos do URI
