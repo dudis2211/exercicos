@@ -40,5 +40,6 @@ public class Exercicio1005 {
 
         System.out.printf("MEDIA = %.5f%n", resultado);
 
+        scanner.close();
     }
 }
